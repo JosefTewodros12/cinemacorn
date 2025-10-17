@@ -43,7 +43,7 @@ Let me know your thoughts — they help me make CinemaCorn even better! 🚀
 ---
 
 ## 📸 Screenshots
-[homepage.png](https://github.com/JosefTewodros12/cinemacorn/blob/main/homepage.png)
+https://github.com/JosefTewodros12/cinemacorn/blob/main/homepage.png
 
 
 
