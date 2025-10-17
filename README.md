@@ -42,7 +42,9 @@ Let me know your thoughts — they help me make CinemaCorn even better! 🚀
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots
+homepage.png
+
 
 
 
