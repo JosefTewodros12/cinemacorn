@@ -41,9 +41,9 @@ I’m constantly improving this app! Your suggestions are highly welcome:
 Let me know your thoughts — they help me make CinemaCorn even better! 🚀  
 
 ---
+## 📸 Screenshot
 
-## 📸 Screenshots
-https://github.com/JosefTewodros12/cinemacorn/blob/main/homepage.png
+![Home Page](https://github.com/JosefTewodros12/cinemacorn/raw/main/homepage.png)
 
 
 
