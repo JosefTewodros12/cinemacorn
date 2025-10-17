@@ -44,5 +44,5 @@ Let me know your thoughts — they help me make CinemaCorn even better! 🚀
 
 ## 📸 Screenshots (Optional)
 
-*Add screenshots of your app here to show the layout and design.*
+
 
