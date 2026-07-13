@@ -1,5 +1,4 @@
 # CinemaCorn 🎬🍿
-
 A **React movie app built entirely from scratch**, inspired by Jonas Schmedtmann’s React course.  
 I added my own features, UI improvements, and interactivity to create a smooth, responsive, and modern experience.
 ---
